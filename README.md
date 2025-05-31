@@ -1,6 +1,6 @@
 # Random Answer Generator HTML 
 
- Random Answer Generator made in HTML.  <sup> (it's basically kinda like a magic 8 ball or the book of answers)</sup>
+ Random Answer Generator made in HTML.
  
  + The answers have been generated through ChatGPT.
  + Both CSS and JS are included in the index.html.
